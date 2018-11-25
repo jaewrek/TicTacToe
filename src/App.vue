@@ -1,9 +1,7 @@
 <template>
   <div id="app">
-    
       <span class="title">TIC TAC TOE</span>
       <Board/>
-    
   </div>
 </template>
 
@@ -14,7 +12,7 @@ export default {
   name: 'App',
   components: {
     Board
-  },
+  }
 }
 </script>
 
